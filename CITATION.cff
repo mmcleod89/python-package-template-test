@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "McLeod"
+    given-names: "Michael Alexander"
+    email: "michael.mcleod@ucl.ac.uk"
+repository-code: "https://github.com/mmcleod89/python-package-template-test"
+title: "Python Package Template Test: An attempt to make a python package in a workshop environment."
+license: "MIT"
